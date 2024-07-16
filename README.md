@@ -33,17 +33,17 @@ The Mars weather analysis involves:
 
 #### Visualizations
 
-1. **Daily Minimum Temperature on Mars**
-   - ![Daily Minimum Temperature on Mars](Mars_Scraping/Chart_Visuals/daily_minimum_temperature.png)
-   
-2. **Average Pressure by Month on Mars**
-   - ![Average Pressure by Month on Mars](Mars_Scraping/Chart_Visuals/average_pressure_by_month.png)
-   
-3. **Average Low Temperature by Month on Mars**
+1. **Average Low Temperature by Month on Mars**
    - ![Average Low Temperature by Month on Mars](Mars_Scraping/Chart_Visuals/average_low_temperature_by_month.png)
-   
-4. **Average Low Temperature by Month on Mars (Sorted by Temperature)**
+
+2. **Average Low Temperature by Month on Mars (Sorted by Temperature)**
    - ![Average Low Temperature by Month on Mars (Sorted by Temperature)](Mars_Scraping/Chart_Visuals/average_low_temperature_by_month_sorted.png)
+
+3. **Average Pressure by Month on Mars**
+   - ![Average Pressure by Month on Mars](Mars_Scraping/Chart_Visuals/average_pressure_by_month.png)
+
+4. **Daily Minimum Temperature on Mars**
+   - ![Daily Minimum Temperature on Mars](Mars_Scraping/Chart_Visuals/daily_minimum_temperature.png)
 
 ## Analysis Steps
 
