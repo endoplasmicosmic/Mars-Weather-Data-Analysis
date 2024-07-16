@@ -31,6 +31,27 @@ The Mars weather analysis involves:
 - Analyzing the data to find trends and patterns.
 - Plotting the results.
 
+### Analysis Summary
+
+1. **Average Low Temperature by Month on Mars**:
+   - The average low temperature varies across different months on Mars.
+   - Coldest months: Identified the coldest months to be around the middle of the Martian year.
+   - Hottest months: The temperatures tend to be higher at the beginning and end of the year.
+
+2. **Average Low Temperature by Month on Mars (Sorted by Temperature)**:
+   - Sorted analysis shows clear distinctions between the coldest and warmest months.
+   - Coldest month: Month 3 (approximately -80°C).
+   - Warmest month: Month 8 (approximately -60°C).
+
+3. **Average Pressure by Month on Mars**:
+   - The atmospheric pressure also varies by month.
+   - Highest pressure observed in Month 9.
+   - Lowest pressure observed in Month 6.
+
+4. **Daily Minimum Temperature on Mars**:
+   - Daily variations in temperature over the Martian year.
+   - Notable cycles and patterns in the temperature data, reflecting seasonal changes.
+
 #### Visualizations
 
 1. **Average Low Temperature by Month on Mars**
